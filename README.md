@@ -25,6 +25,6 @@ the video data format is .mp4
 ## Collection content
 collecting gait videos data in different surveillance cameras
 ## Accuracy
-collection accuracy: based on the accuracy of the actions, the accuracy exceeds 95%; annotation
+collection accuracy: based on the accuracy of the actions, the accuracy exceeds 95%; annotation accuracy: the accuracy of label annotation is not less than 95%
 # Licensing Information
 Commercial License
